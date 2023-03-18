@@ -9239,7 +9239,7 @@ function utility:GetTeam(plr)
             end
 
         else
-            if Settings_PlayerList.players[targ][3] == "Antilocking" or Settings_PlayerList.players[targ][3] == "Nigger"  then
+            if Settings_PlayerList.players[targ][3] == "Antilocking" then
                 if isOldSaved(plr) then 
                     print(isOldSaved(plr), plr.Name)
                     print(getOldSaved(plr), plr.Name)
