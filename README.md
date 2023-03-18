@@ -7,5 +7,5 @@ What "special" things does this contain?
 - Couple of desync things (PhysicsSenderRate, NetworkIsSleeping etc.)
 - Aimviewer bypass (works)
 - other stuff
-
+- obs proof menu and visuals (some visuals)
 The source is shit don't ask me about setting it up or anything thanks.
